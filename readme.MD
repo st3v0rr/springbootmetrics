@@ -1,6 +1,9 @@
 # Beispielapplikation für Metriken
 
 ## Verwendung
+### Installation Infrastruktur
+[InfluxDB](https://docs.influxdata.com/influxdb)
+[Grafana](http://docs.grafana.org/guides/getting_started/)
 
 ### Starten
 Application starten mit dev Profil
